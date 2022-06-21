@@ -1,7 +1,7 @@
 ![MasterHead](https://imgs.search.brave.com/aPLhHv-5kbCVgwIztxA9srOiypKCskcnfaWxWaL2er4/rs:fit:1200:480:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMjM5/NzMxNC5qcGc)
 <h1 align="center">Hi 👋, I'm Abhishek Pratap Singh Chauhan</h1>
 <h3 align="center">A passionate full stack developer.</h3>
-<img align="center" alt="Coding" width="400" src="https://imgs.search.brave.com/RFBl5tj0xV40EOdQQ9ENA31nphPKnkHQ-Ps0f_1Ay0E/rs:fit:498:261:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9hOGJl/YjA2YzEyMGJlMzM1/ODM2MGFlMmJlMjA1/ODhmZC90ZW5vci5n/aWY_aXRlbWlkPTEx/NzI1NjQy.gif">
+<img align="center" alt="Coding" width="1100" height="300" src="https://imgs.search.brave.com/RFBl5tj0xV40EOdQQ9ENA31nphPKnkHQ-Ps0f_1Ay0E/rs:fit:498:261:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9hOGJl/YjA2YzEyMGJlMzM1/ODM2MGFlMmJlMjA1/ODhmZC90ZW5vci5n/aWY_aXRlbWlkPTEx/NzI1NjQy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi8953&label=Profile%20views&color=0e75b6&style=flat"
