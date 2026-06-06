@@ -1,41 +1,45 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= CYBER HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Abhishek+Pratap+Singh+Chauhan;Full+Stack+Engineer;Microservices+%7C+System+Design;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Abhishek+Pratap+Singh+Chauhan;SYSTEMS+ENGINEER;MICROSERVICES+ARCHITECT;BUILDING+SCALABLE+BACKENDS" />
 </p>
 <p align="center">
-  <img src="https://media.tenor.com/a8beb06c120be3358360ae2be20588fd/tenor.gif" width="900" />
+  <img src="https://media.tenor.com/a8beb06c120be3358360ae2be20588fd/tenor.gif" width="900"/>
 </p>
-<h3 align="center">⚡ Engineering Scalable Systems | Backend Specialist | Problem Solver ⚡</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-SCALABLE_SYSTEMS-0A192F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ROLE-FULLSTACK_ENGINEER-00F7FF?style=for-the-badge"/>
+</p>
 
 ⸻
 
-<!-- ================= ABOUT ================= -->
+<!-- ================= TERMINAL ABOUT ================= -->
 
-⚡ About Me
+🧠 system.profile()
 
-* 🚀 Full Stack Developer with focus on backend & scalable systems
-* ⚙️ Currently working on Microservices Architecture
-* 🧠 Strong understanding of Node.js, Express, React
-* 🗄️ Experienced with MongoDB, PostgreSQL, MySQL
-* ☁️ Exploring AWS & Cloud Infrastructure
-* 🔥 Passionate about System Design & Performance Optimization
+> name: Abhishek Pratap Singh Chauhan
+> role: Full Stack Engineer (Backend Focused)
+> specialization: Microservices + Scalable Systems
+> location: India
+> mindset: "Build systems that don't break under scale"
 
 ⸻
 
-<!-- ================= CURRENT FOCUS ================= -->
+<!-- ================= CURRENT STATE ================= -->
 
-🧠 Current Focus
+⚡ system.current_state()
 
-+ Designing Microservices Architecture (Node.js + Docker)
++ Building microservices using Node.js & Docker
++ Designing scalable backend architectures
 + Learning System Design (HLD + LLD)
-+ Improving Data Structures & Algorithms
-+ Working on scalable backend systems
++ Improving DSA & problem solving
++ Exploring AWS cloud ecosystem
 
 ⸻
 
-<!-- ================= TECH STACK ================= -->
+<!-- ================= TECH MATRIX ================= -->
 
-⚙️ Tech Arsenal
+⚙️ tech.matrix()
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postgres,mysql,docker,aws,js,ts,python,linux,git,jenkins,express" />
@@ -43,51 +47,55 @@
 
 ⸻
 
-<!-- ================= STATS ================= -->
+<!-- ================= GITHUB CORE ================= -->
 
-📊 GitHub Analytics
+📊 system.analytics()
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi8953&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi8953&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi8953&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi8953&theme=tokyonight&hide_border=true&background=00000000" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi8953&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi8953&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
 
 ⸻
 
-<!-- ================= PROJECTS ================= -->
+<!-- ================= PROJECT DNA ================= -->
 
-🚀 Featured Work
+🧬 system.projects()
 
-* 🔹 Built scalable REST APIs using Node.js & Express
-* 🔹 Designed backend systems with optimized DB queries
-* 🔹 Developed Microservices-based applications
-* 🔹 Full Stack applications using React + MongoDB
+- Scalable REST APIs (Node.js + Express)
+- Microservices Architecture (Docker based)
+- Optimized DB systems (MongoDB, PostgreSQL)
+- Full Stack Applications (React + Backend APIs)
 
 ⸻
 
 <!-- ================= EXPERIENCE ================= -->
 
-💼 Experience
+💼 system.experience()
 
-Role: Full Stack Developer
-Focus: Backend Engineering & Scalable Systems
-Tech: Node.js, React, MongoDB, Docker, AWS
+role: Full Stack Developer
+focus: Backend Engineering
+expertise:
+  - Node.js
+  - Microservices
+  - Database Optimization
+  - API Design
 
 ⸻
 
 <!-- ================= CONNECT ================= -->
 
-🌐 Connect With Me
+🌐 system.connect()
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishek-chauhan-205696137">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:abhishek98.ac@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
@@ -95,23 +103,28 @@ Tech: Node.js, React, MongoDB, Docker, AWS
 
 <!-- ================= PHILOSOPHY ================= -->
 
-🧬 Developer Philosophy
+🧠 core.loop()
 
-Code. Break. Optimize. Scale. Repeat.
+while(alive){
+  code();
+  optimize();
+  scale();
+  repeat();
+}
 
 ⸻
 
 <!-- ================= SNAKE ================= -->
 
-🐍 Contribution Activity
+🐍 system.activity()
 
 <p align="center">
-  <img src="https://github.com/abhi8953/abhi8953/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/abhi8953/abhi8953/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ⸻
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi8953&label=Profile%20Views&color=00F7FF&style=flat" />
-<
+  <img src="https://komarev.com/ghpvc/?username=abhi8953&label=VISITORS&color=00F7FF&style=flat"/>
+</p>
