@@ -1,42 +1,29 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Abhishek+Chauhan;Full+Stack+Developer;Saiyan+Mode+Activated+⚡;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=900&lines=Abhishek+Chauhan;Full+Stack+Developer;Building+Scalable+Systems" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_POWER_LEVEL-OVER_9000-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔥_MODE-SUPER_SAIYAN-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🧠_FOCUS-BACKEND_SYSTEMS-00F7FF?style=for-the-badge"/>
+  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="220"/>
 </p>
-
-⸻
-
-<!-- ================= POWER PANEL ================= -->
-> Booting Saiyan Dev System...
-Loading Skills ███████████████ 100%
-✔ Backend Engineering
-✔ Microservices
-✔ System Design
-✔ Scalable Architectures
-> Status: SUPER SAIYAN ⚡
 
 ⸻
 
 <!-- ================= ABOUT ================= -->
-
-🧬 SAIYAN PROFILE
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=26&center=true&vCenter=true&width=600&lines=About+Me" />
+</p>
 name: Abhishek Chauhan
 role: Full Stack Developer
-special_power: Backend & Scalability
-mission: Build systems that don't break
-training: System Design + DSA mastery
+focus: Backend Systems & Scalability
+experience: Building production-ready applications
+learning: System Design and DSA
 
 ⸻
 
-<!-- ================= TECH STACK ================= -->
-
-⚔️ TECH ARSENAL
-
+<!-- ================= TECH ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=26&center=true&vCenter=true&width=600&lines=Tech+Stack" />
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postgres,mysql,docker,aws,js,ts,python,linux,git" />
 </p>
@@ -44,9 +31,9 @@ training: System Design + DSA mastery
 ⸻
 
 <!-- ================= STATS ================= -->
-
-📊 POWER STATS
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=26&center=true&vCenter=true&width=600&lines=GitHub+Stats" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhi8953&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi8953&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -55,46 +42,37 @@ training: System Design + DSA mastery
 ⸻
 
 <!-- ================= PROJECTS ================= -->
-
-🚀 BATTLE PROJECTS
-
-+ Scalable REST APIs
-+ Microservices Architecture
-+ Full Stack Applications
-+ High Performance Systems
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=26&center=true&vCenter=true&width=600&lines=Projects" />
+</p>
+Scalable REST APIs
+Microservices Architecture
+Full Stack Applications
+Database Optimization
 
 ⸻
 
 <!-- ================= CURRENT ================= -->
-
-🔥 CURRENT TRAINING ARC
-
-> Mastering System Design
-> Building Microservices with Docker
-> Grinding DSA daily
-> Optimizing backend performance
-
-⸻
-
-<!-- ================= QUOTE ================= -->
-
-🗿 SAIYAN MINDSET
-
-"I don't build for today.
-I build systems that scale beyond limits."
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=26&center=true&vCenter=true&width=600&lines=Currently+Working+On" />
+</p>
+Building microservices with Node.js and Docker
+Learning system design
+Improving DSA
+Optimizing backend performance
 
 ⸻
 
 <!-- ================= CONNECT ================= -->
-
-🌐 ALLIANCE
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=26&center=true&vCenter=true&width=600&lines=Connect" />
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/abhishek-chauhan-205696137">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-4FC3F7?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:abhishek98.ac@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -102,8 +80,5 @@ I build systems that scale beyond limits."
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi8953&label=POWER+SCOUTER&color=00F7FF&style=for-the-badge"/>
-</p>
-<p align="center">
-  ⚡ Train Hard • Build Harder • Scale Forever ⚡
+  <img src="https://komarev.com/ghpvc/?username=abhi8953&label=Profile+Views&color=4FC3F7&style=for-the-badge"/>
 </p>
