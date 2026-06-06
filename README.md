@@ -1,45 +1,40 @@
-<!-- ================= CYBER HEADER ================= -->
+<!-- ================= TERMINAL BOOT ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Abhishek+Pratap+Singh+Chauhan;SYSTEMS+ENGINEER;MICROSERVICES+ARCHITECT;BUILDING+SCALABLE+BACKENDS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=700&color=00FF9C&center=true&vCenter=true&width=900&lines=booting+system...;initializing+developer+profile...;loading+modules...;Abhishek+Pratap+Singh+Chauhan;Full+Stack+Engineer+%7C+Backend+Specialist" />
 </p>
 <p align="center">
-  <img src="https://media.tenor.com/a8beb06c120be3358360ae2be20588fd/tenor.gif" width="900"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FOCUS-SCALABLE_SYSTEMS-0A192F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ROLE-FULLSTACK_ENGINEER-00F7FF?style=for-the-badge"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="900"/>
 </p>
 
 ⸻
 
-<!-- ================= TERMINAL ABOUT ================= -->
+<!-- ================= TERMINAL WINDOW ================= -->
 
-🧠 system.profile()
+🟢 terminal.session
 
-> name: Abhishek Pratap Singh Chauhan
-> role: Full Stack Engineer (Backend Focused)
-> specialization: Microservices + Scalable Systems
-> location: India
-> mindset: "Build systems that don't break under scale"
-
-⸻
-
-<!-- ================= CURRENT STATE ================= -->
-
-⚡ system.current_state()
-
-+ Building microservices using Node.js & Docker
-+ Designing scalable backend architectures
-+ Learning System Design (HLD + LLD)
-+ Improving DSA & problem solving
-+ Exploring AWS cloud ecosystem
+$ whoami
+> Abhishek Pratap Singh Chauhan
+$ role
+> Full Stack Engineer (Backend Focus)
+$ specialization
+> Microservices | Scalable Systems | API Design
+$ location
+> India
 
 ⸻
 
-<!-- ================= TECH MATRIX ================= -->
+🟢 terminal.current_process
 
-⚙️ tech.matrix()
+$ status --live
+[✓] Building microservices with Node.js & Docker
+[✓] Designing scalable backend systems
+[✓] Learning system design (HLD + LLD)
+[✓] Practicing DSA
+[✓] Exploring AWS cloud
+
+⸻
+
+🟢 terminal.tech_stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postgres,mysql,docker,aws,js,ts,python,linux,git,jenkins,express" />
@@ -47,84 +42,66 @@
 
 ⸻
 
-<!-- ================= GITHUB CORE ================= -->
-
-📊 system.analytics()
+🟢 terminal.github_stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi8953&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi8953&theme=tokyonight&hide_border=true&background=00000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi8953&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000" height="170"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi8953&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi8953&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000"/>
 </p>
 
 ⸻
 
-<!-- ================= PROJECT DNA ================= -->
+🟢 terminal.projects
 
-🧬 system.projects()
-
-- Scalable REST APIs (Node.js + Express)
-- Microservices Architecture (Docker based)
-- Optimized DB systems (MongoDB, PostgreSQL)
-- Full Stack Applications (React + Backend APIs)
+$ ls projects/
+> scalable-rest-api
+> microservices-architecture
+> fullstack-react-apps
+> database-optimization-systems
 
 ⸻
 
-<!-- ================= EXPERIENCE ================= -->
+🟢 terminal.experience
 
-💼 system.experience()
-
+$ cat experience.yaml
 role: Full Stack Developer
 focus: Backend Engineering
-expertise:
+stack:
   - Node.js
   - Microservices
-  - Database Optimization
-  - API Design
+  - MongoDB / PostgreSQL
+  - Docker
 
 ⸻
 
-<!-- ================= CONNECT ================= -->
-
-🌐 system.connect()
+🟢 terminal.connect
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishek-chauhan-205696137">
-    <img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/linkedin-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:abhishek98.ac@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
 ⸻
 
-<!-- ================= PHILOSOPHY ================= -->
+🟢 terminal.core_loop
 
-🧠 core.loop()
-
-while(alive){
+while(true){
   code();
+  debug();
   optimize();
   scale();
-  repeat();
 }
 
 ⸻
 
-<!-- ================= SNAKE ================= -->
-
-🐍 system.activity()
+🟢 terminal.visitors
 
 <p align="center">
-  <img src="https://github.com/abhi8953/abhi8953/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
-⸻
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi8953&label=VISITORS&color=00F7FF&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=abhi8953&label=terminal_visits&color=00FF9C&style=flat"/>
 </p>
