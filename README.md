@@ -5,14 +5,10 @@
 
 ⸻
 
-<!-- ================= ABOUT ================= -->
-// about.ts
-const developer = {
-  name: "Abhishek Chauhan",
-  role: "Full Stack Developer",
-  focus: "Backend Systems",
-  mindset: "Clean code • Scalable systems • Performance",
-};
+<!-- ================= ABOUT (NEON CODE) ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=800&color=00FFB2&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=220&lines=%2F%2F+about.ts;const+developer+=+%7B;++++++++name%3A+%22Abhishek+Chauhan%22%2C;++++++++role%3A+%22Full+Stack+Developer%22%2C;++++++++focus%3A+%22Backend+Systems%22%2C;++++++++mindset%3A+%22Clean+code+%E2%80%A2+Scalable+systems+%E2%80%A2+Performance%22%2C;%7D%3B" />
+</p>
 
 ⸻
 
@@ -23,22 +19,17 @@ const developer = {
 
 ⸻
 
-<!-- ================= PROJECTS ================= -->
-// projects.ts
-const projects = [
-  "Scalable REST APIs",
-  "Microservices Architecture",
-  "Full Stack Applications",
-  "Performance Optimization",
-];
+<!-- ================= PROJECTS (NEON CODE) ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=800&color=00FFB2&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=220&lines=%2F%2F+projects.ts;const+projects+=+%5B;++++++++%22Scalable+REST+APIs%22%2C;++++++++%22Microservices+Architecture%22%2C;++++++++%22Full+Stack+Applications%22%2C;++++++++%22Performance+Optimization%22%2C;%5D%3B" />
+</p>
 
 ⸻
 
 <!-- ================= CURRENT ================= -->
-# current-focus.sh
-> building microservices with Node.js
-> improving backend performance
-> learning system design
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=800&color=7C3AED&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=180&lines=%23+current-focus.sh;>+building+microservices;>+improving+backend+performance;>+learning+system+design" />
+</p>
 
 ⸻
 
@@ -57,5 +48,5 @@ const projects = [
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=while(alive)+%7B+code();+learn();+build();+%7D" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=while(alive)+%7B+code();+learn();+build();+%7D" />
 </p>
