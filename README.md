@@ -1,41 +1,41 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Abhishek+Chauhan;Full+Stack+Engineer;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Abhishek+Chauhan;Full+Stack+Developer;Saiyan+Mode+Activated+⚡;Building+Scalable+Systems" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00F7FF?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ARCHITECTURE-MICROSERVICES-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡_POWER_LEVEL-OVER_9000-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔥_MODE-SUPER_SAIYAN-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠_FOCUS-BACKEND_SYSTEMS-00F7FF?style=for-the-badge"/>
 </p>
 
 ⸻
 
-<!-- ================= SYSTEM PANEL ================= -->
-> Initializing Developer Profile...
-> Loading Modules ██████████████ 100%
+<!-- ================= POWER PANEL ================= -->
+> Booting Saiyan Dev System...
+Loading Skills ███████████████ 100%
 ✔ Backend Engineering
-✔ Microservices Architecture
+✔ Microservices
 ✔ System Design
-✔ Performance Optimization
-> System Ready 🚀
+✔ Scalable Architectures
+> Status: SUPER SAIYAN ⚡
 
 ⸻
 
 <!-- ================= ABOUT ================= -->
 
-🧠 ABOUT
+🧬 SAIYAN PROFILE
 
 name: Abhishek Chauhan
 role: Full Stack Developer
-focus: Backend Systems & Scalability
-experience: Building production-ready applications
-learning: System Design + Advanced Backend
+special_power: Backend & Scalability
+mission: Build systems that don't break
+training: System Design + DSA mastery
 
 ⸻
 
-<!-- ================= TECH ================= -->
+<!-- ================= TECH STACK ================= -->
 
-⚙️ TECH STACK
+⚔️ TECH ARSENAL
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postgres,mysql,docker,aws,js,ts,python,linux,git" />
@@ -45,7 +45,7 @@ learning: System Design + Advanced Backend
 
 <!-- ================= STATS ================= -->
 
-📊 SYSTEM METRICS
+📊 POWER STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhi8953&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -56,29 +56,38 @@ learning: System Design + Advanced Backend
 
 <!-- ================= PROJECTS ================= -->
 
-🚀 DEPLOYMENTS
+🚀 BATTLE PROJECTS
 
 + Scalable REST APIs
 + Microservices Architecture
 + Full Stack Applications
-+ Database Optimization
++ High Performance Systems
 
 ⸻
 
 <!-- ================= CURRENT ================= -->
 
-🔥 CURRENTLY EXECUTING
+🔥 CURRENT TRAINING ARC
 
-> Building Microservices with Node.js & Docker
-> Learning Advanced System Design
-> Improving DSA Problem Solving
-> Optimizing Backend Performance
+> Mastering System Design
+> Building Microservices with Docker
+> Grinding DSA daily
+> Optimizing backend performance
+
+⸻
+
+<!-- ================= QUOTE ================= -->
+
+🗿 SAIYAN MINDSET
+
+"I don't build for today.
+I build systems that scale beyond limits."
 
 ⸻
 
 <!-- ================= CONNECT ================= -->
 
-🌐 NETWORK
+🌐 ALLIANCE
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishek-chauhan-205696137">
@@ -91,14 +100,10 @@ learning: System Design + Advanced Backend
 
 ⸻
 
-<!-- ================= PHILOSOPHY ================= -->
-
-🧬 CORE LOGIC
-
-Code → Optimize → Scale → Repeat
-
-⸻
-
+<!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi8953&label=SYSTEM+VISITS&color=00F7FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=abhi8953&label=POWER+SCOUTER&color=00F7FF&style=for-the-badge"/>
+</p>
+<p align="center">
+  ⚡ Train Hard • Build Harder • Scale Forever ⚡
 </p>
