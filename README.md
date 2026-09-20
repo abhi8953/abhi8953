@@ -1,49 +1,174 @@
-<!-- ================= HERO ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Abhishek+Chauhan;Full+Stack+Developer;Building+Scalable+Backend+Systems" />
+<div align="center">
+
+# Hi, I'm Abhishek Chauhan
+
+### Senior Software Engineer · Full Stack · Backend · Cloud
+
+<p>
+Building scalable applications, cloud-native backend systems,<br/>
+and modern frontend experiences.
 </p>
 
-
-<!-- ================= ABOUT (NEON CODE) ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=800&color=00FFB2&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=220&lines=%2F%2F+about.ts;const+developer+=+%7B;++++++++name%3A+%22Abhishek+Chauhan%22%2C;++++++++role%3A+%22Full+Stack+Developer%22%2C;++++++++focus%3A+%22Backend+Systems%22%2C;++++++++mindset%3A+%22Clean+code+%E2%80%A2+Scalable+systems+%E2%80%A2+Performance%22%2C;%7D%3B" />
-</p>
-
-
-<!-- ================= TECH STACK ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=400&lines=Tech+Stack" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postgres,mysql,docker,aws,js,ts,python,linux,git&perline=6" />
-</p>
-
-
-<!-- ================= PROJECTS (NEON CODE) ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=800&color=00FFB2&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=220&lines=%2F%2F+projects.ts;const+projects+=+%5B;++++++++%22Scalable+REST+APIs%22%2C;++++++++%22Microservices+Architecture%22%2C;++++++++%22Full+Stack+Applications%22%2C;++++++++%22Performance+Optimization%22%2C;%5D%3B" />
-</p>
-
-
-<!-- ================= CURRENT ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=800&color=7C3AED&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=180&lines=%23+current-focus.sh;>+building+microservices;>+improving+backend+performance;>+learning+system+design" />
-</p>
-
-
-<!-- ================= CONNECT ================= -->
-<p align="center">
+<p>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/abhishek-chauhan-205696137">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:abhishek98.ac@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
 
+</div>
 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=while(alive)+%7B+code();+learn();+build();+%7D" />
-</p>
+---
+
+## `> about`
+
+```typescript
+const abhishek = {
+  role: "Senior Software Engineer",
+  experience: "6+ years",
+
+  focus: [
+    "Full Stack Engineering",
+    "Backend Systems",
+    "Cloud Architecture",
+    "Scalable Applications",
+  ],
+
+  architecture: [
+    "Microservices",
+    "Serverless",
+    "Micro Frontends",
+    "Module Federation",
+  ],
+
+  philosophy: "Build systems that scale. Write code that lasts.",
+};
+```
+
+I work across the **full application lifecycle** — designing backend services and APIs, building modern frontend architectures, integrating cloud infrastructure, and improving reliability and performance.
+
+My primary engineering interests are **distributed systems, backend architecture, cloud-native development, system design, and AI-assisted software engineering.**
+
+---
+
+## `> tech --stack`
+
+<div align="center">
+
+### Core
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express&theme=dark" />
+
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux&theme=dark" />
+
+### Data
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,dynamodb&theme=dark" />
+
+### Engineering
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+</div>
+
+---
+
+## `> engineering --focus`
+
+```text
+01  Backend Engineering      →  Node.js · REST APIs · Microservices
+02  Cloud Architecture       →  AWS · Azure · Serverless
+03  Frontend Architecture    →  React · TypeScript · Micro Frontends
+04  Data Layer               →  PostgreSQL · MongoDB · DynamoDB
+05  System Design            →  Scalability · Reliability · Performance
+```
+
+---
+
+## `> architecture`
+
+```text
+                        ┌─────────────────────┐
+                        │      Frontend       │
+                        │  React · TypeScript │
+                        └──────────┬──────────┘
+                                   │
+                                   ▼
+                        ┌─────────────────────┐
+                        │     API Layer       │
+                        │ Node.js · REST APIs │
+                        └──────────┬──────────┘
+                                   │
+                     ┌─────────────┴─────────────┐
+                     ▼                           ▼
+          ┌────────────────────┐      ┌────────────────────┐
+          │    Microservices   │      │     Serverless     │
+          │     Node.js        │      │     AWS Lambda     │
+          └─────────┬──────────┘      └─────────┬──────────┘
+                    │                           │
+                    └─────────────┬─────────────┘
+                                  ▼
+                     ┌─────────────────────────┐
+                     │       Data Layer        │
+                     │ PostgreSQL · MongoDB    │
+                     │ DynamoDB · Neo4j        │
+                     └─────────────────────────┘
+```
+
+---
+
+## `> currently`
+
+```yaml
+building:
+  - scalable backend services
+  - cloud-native applications
+  - modern frontend architectures
+
+learning:
+  - advanced system design
+  - distributed systems
+  - AI-assisted engineering
+
+optimizing:
+  - application performance
+  - developer experience
+  - system reliability
+```
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhi8953&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi8953&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something meaningful.
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
+</a>
+
+<br/><br/>
+
+<sub>
+Clean Code · Scalable Systems · Cloud Architecture · Continuous Learning
+</sub>
+
+</div>
